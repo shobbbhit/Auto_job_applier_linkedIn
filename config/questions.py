@@ -8,7 +8,7 @@ website = ""
 
 linkedIn = "https://www.linkedin.com/in/shreya-vohra-13179916b"
 
-us_citizenship = ""
+us_citizenship = "Non-citizen allowed to work for any employer"
 
 desired_salary = 1800000
 

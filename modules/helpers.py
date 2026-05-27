@@ -93,7 +93,7 @@ def find_default_profile_directory() -> str | None:
     # MacOS ## For some reason, opening with profile in MacOS is not creating a session for undetected-chromedriver!
     elif sys.platform == 'darwin':
         paths = [
-            str(home / "Library" / "Application Support" / "Google" / "Chrome")
+            str(home / "Library" / "Application Support" / "BraveSoftware" / "Brave-Browser")
         ]
     else:
         return None
